@@ -1,5 +1,3 @@
-# Data_Strucures_Recursion_Lab
-
 Raheel Khoja
 CS 314 Data Structures
 Novak
